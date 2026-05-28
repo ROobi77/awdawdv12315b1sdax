@@ -8,9 +8,9 @@ module.exports = {
     discord: {
         id: process.env.DISCORD_ID,
         prefix: '!',
-        footer: `© Corwin 2021 - ${new Date().getFullYear()}`, 
-        botInvite: `https://discord.com/oauth2/authorize?&client_id=840212110817755157&scope=applications.commands+bot&permissions=8`,
-        serverInvite: "https://discord.gg/qHXxpQKC2H",
+        footer: `© FusePvP 2026 - ${new Date().getFullYear()}`, 
+        botInvite: `https://discord.com/oauth2/authorize?client_id=1509221514677846076&permissions=8&integration_type=0&scope=bot+applications.commands`,
+        serverInvite: "https://discord.gg/qHXZTcK2KW",
     },
 
     wordList: `Airplane
